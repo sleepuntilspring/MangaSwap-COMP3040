@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614151750395",
+    "firebase_url": "https://mangaswap-1ca92-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mangaswap-1ca92",
+    "storage_bucket": "mangaswap-1ca92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614151750395:android:7b8591911aa5644fcd665e",
+        "android_client_info": {
+          "package_name": "com.example.mangaswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614151750395-fo223ase3ngr6s7ram1sflf5vqkan6q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mangaswap",
+            "certificate_hash": "687193478bd6ec6339c85057dad5f8317353a1a5"
+          }
+        },
+        {
+          "client_id": "614151750395-g8n42iis4eddng2434adlgugioob94jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-vkphPp-ZmfLo91ldkz55_LLt76q9Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614151750395-g8n42iis4eddng2434adlgugioob94jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
