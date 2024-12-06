@@ -44,6 +44,7 @@
 
 
 _It is recommended to use 2 emulators at the same time to test the functions of this app_
+
 _I've also setup 2 mangas in the app to make it easier for testing_
    
 
